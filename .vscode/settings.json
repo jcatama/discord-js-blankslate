@@ -1,0 +1,27 @@
+{
+    "editor.tabSize": 4,
+    "editor.detectIndentation": false,
+    "workbench.colorTheme": "GitHub Dark",
+    "editor.tokenColorCustomizations": {
+        "comments": "#229977",
+        "keywords": "#a5d1fd",
+        "functions": "#c871d9",
+        "strings": "#c8cc91",
+        "types": "#8c76f1",
+        "variables": "#ddae2d",
+        "numbers": "#16cf88"
+    },
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.minimap.enabled": false,
+    "workbench.colorCustomizations" : {
+        "terminal.foreground" : "#00FD61",
+        "terminal.background" : "#000000",
+        "editorUnnecessaryCode.border": "#53392c"
+    },
+    "typescript.validate.enable": true,
+    "javascript.validate.enable": true,
+    "editor.snippetSuggestions": "top",
+    "files.associations": {
+        "*.js": "javascript"
+    }
+}
